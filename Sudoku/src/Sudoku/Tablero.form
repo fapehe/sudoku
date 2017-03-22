@@ -1,0 +1,497 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" attributes="0">
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="0" attributes="0">
+                      <Component id="Pos1" min="-2" pref="30" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="Pos2" min="-2" pref="30" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="Pos3" min="-2" pref="30" max="-2" attributes="0"/>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Component id="Pos4" min="-2" pref="30" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="Pos5" min="-2" pref="30" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="Pos6" min="-2" pref="30" max="-2" attributes="0"/>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Component id="Pos7" min="-2" pref="30" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="Pos8" min="-2" pref="30" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="Pos9" min="-2" pref="30" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" attributes="0">
+                      <Component id="Pos10" min="-2" pref="30" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="Pos11" min="-2" pref="30" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="Pos12" min="-2" pref="30" max="-2" attributes="0"/>
+                      <EmptySpace min="-2" pref="18" max="-2" attributes="0"/>
+                      <Component id="Pos13" min="-2" pref="30" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="Pos14" min="-2" pref="30" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="Pos15" min="-2" pref="30" max="-2" attributes="0"/>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Component id="Pos16" min="-2" pref="30" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="Pos17" min="-2" pref="30" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="Pos18" min="-2" pref="30" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" attributes="0">
+                      <Component id="Pos19" min="-2" pref="30" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="Pos20" min="-2" pref="30" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="Pos21" min="-2" pref="30" max="-2" attributes="0"/>
+                      <EmptySpace min="-2" pref="18" max="-2" attributes="0"/>
+                      <Component id="Pos22" min="-2" pref="30" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="Pos23" min="-2" pref="30" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="Pos24" min="-2" pref="30" max="-2" attributes="0"/>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Component id="Pos25" min="-2" pref="30" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="Pos26" min="-2" pref="30" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="Pos27" min="-2" pref="30" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" attributes="0">
+                      <Component id="Pos28" min="-2" pref="30" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="Pos29" min="-2" pref="30" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="Pos30" min="-2" pref="30" max="-2" attributes="0"/>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Component id="Pos31" min="-2" pref="30" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="Pos32" min="-2" pref="30" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="Pos33" min="-2" pref="30" max="-2" attributes="0"/>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Component id="Pos34" min="-2" pref="30" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="Pos35" min="-2" pref="30" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="Pos36" min="-2" pref="30" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" attributes="0">
+                      <Component id="Pos37" min="-2" pref="30" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="Pos38" min="-2" pref="30" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="Pos39" min="-2" pref="30" max="-2" attributes="0"/>
+                      <EmptySpace min="-2" pref="18" max="-2" attributes="0"/>
+                      <Component id="Pos40" min="-2" pref="30" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="Pos41" min="-2" pref="30" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="Pos42" min="-2" pref="30" max="-2" attributes="0"/>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Component id="Pos43" min="-2" pref="30" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="Pos44" min="-2" pref="30" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="Pos45" min="-2" pref="30" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" attributes="0">
+                      <Component id="Pos46" min="-2" pref="30" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="Pos47" min="-2" pref="30" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="Pos48" min="-2" pref="30" max="-2" attributes="0"/>
+                      <EmptySpace min="-2" pref="18" max="-2" attributes="0"/>
+                      <Component id="Pos49" min="-2" pref="30" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="Pos50" min="-2" pref="30" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="Pos51" min="-2" pref="30" max="-2" attributes="0"/>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Component id="Pos52" min="-2" pref="30" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="Pos53" min="-2" pref="30" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="Pos54" min="-2" pref="30" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" attributes="0">
+                      <Component id="Pos55" min="-2" pref="30" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="Pos56" min="-2" pref="30" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="Pos57" min="-2" pref="30" max="-2" attributes="0"/>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Component id="Pos58" min="-2" pref="30" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="Pos59" min="-2" pref="30" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="Pos60" min="-2" pref="30" max="-2" attributes="0"/>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Component id="Pos61" min="-2" pref="30" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="Pos62" min="-2" pref="30" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="Pos63" min="-2" pref="30" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" attributes="0">
+                      <Component id="Pos64" min="-2" pref="30" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="Pos65" min="-2" pref="30" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="Pos66" min="-2" pref="30" max="-2" attributes="0"/>
+                      <EmptySpace min="-2" pref="18" max="-2" attributes="0"/>
+                      <Component id="Pos67" min="-2" pref="30" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="Pos68" min="-2" pref="30" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="Pos69" min="-2" pref="30" max="-2" attributes="0"/>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Component id="Pos70" min="-2" pref="30" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="Pos71" min="-2" pref="30" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="Pos72" min="-2" pref="30" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" alignment="0" attributes="0">
+                      <Component id="Pos73" min="-2" pref="30" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="Pos74" min="-2" pref="30" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="Pos75" min="-2" pref="30" max="-2" attributes="0"/>
+                      <EmptySpace min="-2" pref="18" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                          <Group type="102" attributes="0">
+                              <Component id="Pos76" min="-2" pref="30" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="Pos77" min="-2" pref="30" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="Pos78" min="-2" pref="30" max="-2" attributes="0"/>
+                          </Group>
+                          <Component id="BotonComp" max="32767" attributes="0"/>
+                      </Group>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Component id="Pos79" min="-2" pref="30" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="Pos80" min="-2" pref="30" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="Pos81" min="-2" pref="30" max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+              <EmptySpace pref="48" max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="Pos1" alignment="3" min="-2" pref="30" max="-2" attributes="0"/>
+                  <Component id="Pos2" alignment="3" min="-2" pref="30" max="-2" attributes="0"/>
+                  <Component id="Pos3" alignment="3" min="-2" pref="30" max="-2" attributes="0"/>
+                  <Component id="Pos5" alignment="3" min="-2" pref="30" max="-2" attributes="0"/>
+                  <Component id="Pos4" alignment="3" min="-2" pref="30" max="-2" attributes="0"/>
+                  <Component id="Pos8" alignment="3" min="-2" pref="30" max="-2" attributes="0"/>
+                  <Component id="Pos7" alignment="3" min="-2" pref="30" max="-2" attributes="0"/>
+                  <Component id="Pos9" alignment="3" min="-2" pref="30" max="-2" attributes="0"/>
+                  <Component id="Pos6" alignment="3" min="-2" pref="30" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="Pos14" alignment="3" min="-2" pref="30" max="-2" attributes="0"/>
+                  <Component id="Pos13" alignment="3" min="-2" pref="30" max="-2" attributes="0"/>
+                  <Component id="Pos17" alignment="3" min="-2" pref="30" max="-2" attributes="0"/>
+                  <Component id="Pos16" alignment="3" min="-2" pref="30" max="-2" attributes="0"/>
+                  <Component id="Pos18" alignment="3" min="-2" pref="30" max="-2" attributes="0"/>
+                  <Component id="Pos15" alignment="3" min="-2" pref="30" max="-2" attributes="0"/>
+                  <Component id="Pos10" alignment="3" min="-2" pref="30" max="-2" attributes="0"/>
+                  <Component id="Pos11" alignment="3" min="-2" pref="30" max="-2" attributes="0"/>
+                  <Component id="Pos12" alignment="3" min="-2" pref="30" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="Pos23" alignment="3" min="-2" pref="30" max="-2" attributes="0"/>
+                  <Component id="Pos22" alignment="3" min="-2" pref="30" max="-2" attributes="0"/>
+                  <Component id="Pos26" alignment="3" min="-2" pref="30" max="-2" attributes="0"/>
+                  <Component id="Pos25" alignment="3" min="-2" pref="30" max="-2" attributes="0"/>
+                  <Component id="Pos27" alignment="3" min="-2" pref="30" max="-2" attributes="0"/>
+                  <Component id="Pos24" alignment="3" min="-2" pref="30" max="-2" attributes="0"/>
+                  <Component id="Pos19" alignment="3" min="-2" pref="30" max="-2" attributes="0"/>
+                  <Component id="Pos20" alignment="3" min="-2" pref="30" max="-2" attributes="0"/>
+                  <Component id="Pos21" alignment="3" min="-2" pref="30" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="Pos28" alignment="3" min="-2" pref="30" max="-2" attributes="0"/>
+                  <Component id="Pos29" alignment="3" min="-2" pref="30" max="-2" attributes="0"/>
+                  <Component id="Pos30" alignment="3" min="-2" pref="30" max="-2" attributes="0"/>
+                  <Component id="Pos32" alignment="3" min="-2" pref="30" max="-2" attributes="0"/>
+                  <Component id="Pos31" alignment="3" min="-2" pref="30" max="-2" attributes="0"/>
+                  <Component id="Pos35" alignment="3" min="-2" pref="30" max="-2" attributes="0"/>
+                  <Component id="Pos34" alignment="3" min="-2" pref="30" max="-2" attributes="0"/>
+                  <Component id="Pos36" alignment="3" min="-2" pref="30" max="-2" attributes="0"/>
+                  <Component id="Pos33" alignment="3" min="-2" pref="30" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="Pos41" alignment="3" min="-2" pref="30" max="-2" attributes="0"/>
+                  <Component id="Pos40" alignment="3" min="-2" pref="30" max="-2" attributes="0"/>
+                  <Component id="Pos44" alignment="3" min="-2" pref="30" max="-2" attributes="0"/>
+                  <Component id="Pos43" alignment="3" min="-2" pref="30" max="-2" attributes="0"/>
+                  <Component id="Pos45" alignment="3" min="-2" pref="30" max="-2" attributes="0"/>
+                  <Component id="Pos42" alignment="3" min="-2" pref="30" max="-2" attributes="0"/>
+                  <Component id="Pos37" alignment="3" min="-2" pref="30" max="-2" attributes="0"/>
+                  <Component id="Pos38" alignment="3" min="-2" pref="30" max="-2" attributes="0"/>
+                  <Component id="Pos39" alignment="3" min="-2" pref="30" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="Pos50" alignment="3" min="-2" pref="30" max="-2" attributes="0"/>
+                  <Component id="Pos49" alignment="3" min="-2" pref="30" max="-2" attributes="0"/>
+                  <Component id="Pos53" alignment="3" min="-2" pref="30" max="-2" attributes="0"/>
+                  <Component id="Pos52" alignment="3" min="-2" pref="30" max="-2" attributes="0"/>
+                  <Component id="Pos54" alignment="3" min="-2" pref="30" max="-2" attributes="0"/>
+                  <Component id="Pos51" alignment="3" min="-2" pref="30" max="-2" attributes="0"/>
+                  <Component id="Pos46" alignment="3" min="-2" pref="30" max="-2" attributes="0"/>
+                  <Component id="Pos47" alignment="3" min="-2" pref="30" max="-2" attributes="0"/>
+                  <Component id="Pos48" alignment="3" min="-2" pref="30" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="Pos55" alignment="3" min="-2" pref="30" max="-2" attributes="0"/>
+                  <Component id="Pos56" alignment="3" min="-2" pref="30" max="-2" attributes="0"/>
+                  <Component id="Pos57" alignment="3" min="-2" pref="30" max="-2" attributes="0"/>
+                  <Component id="Pos59" alignment="3" min="-2" pref="30" max="-2" attributes="0"/>
+                  <Component id="Pos58" alignment="3" min="-2" pref="30" max="-2" attributes="0"/>
+                  <Component id="Pos62" alignment="3" min="-2" pref="30" max="-2" attributes="0"/>
+                  <Component id="Pos61" alignment="3" min="-2" pref="30" max="-2" attributes="0"/>
+                  <Component id="Pos63" alignment="3" min="-2" pref="30" max="-2" attributes="0"/>
+                  <Component id="Pos60" alignment="3" min="-2" pref="30" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="Pos68" alignment="3" min="-2" pref="30" max="-2" attributes="0"/>
+                  <Component id="Pos67" alignment="3" min="-2" pref="30" max="-2" attributes="0"/>
+                  <Component id="Pos71" alignment="3" min="-2" pref="30" max="-2" attributes="0"/>
+                  <Component id="Pos70" alignment="3" min="-2" pref="30" max="-2" attributes="0"/>
+                  <Component id="Pos72" alignment="3" min="-2" pref="30" max="-2" attributes="0"/>
+                  <Component id="Pos69" alignment="3" min="-2" pref="30" max="-2" attributes="0"/>
+                  <Component id="Pos64" alignment="3" min="-2" pref="30" max="-2" attributes="0"/>
+                  <Component id="Pos65" alignment="3" min="-2" pref="30" max="-2" attributes="0"/>
+                  <Component id="Pos66" alignment="3" min="-2" pref="30" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="Pos77" alignment="3" min="-2" pref="30" max="-2" attributes="0"/>
+                  <Component id="Pos76" alignment="3" min="-2" pref="30" max="-2" attributes="0"/>
+                  <Component id="Pos80" alignment="3" min="-2" pref="30" max="-2" attributes="0"/>
+                  <Component id="Pos79" alignment="3" min="-2" pref="30" max="-2" attributes="0"/>
+                  <Component id="Pos81" alignment="3" min="-2" pref="30" max="-2" attributes="0"/>
+                  <Component id="Pos78" alignment="3" min="-2" pref="30" max="-2" attributes="0"/>
+                  <Component id="Pos73" alignment="3" min="-2" pref="30" max="-2" attributes="0"/>
+                  <Component id="Pos74" alignment="3" min="-2" pref="30" max="-2" attributes="0"/>
+                  <Component id="Pos75" alignment="3" min="-2" pref="30" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="BotonComp" min="-2" max="-2" attributes="0"/>
+              <EmptySpace pref="16" max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Component class="javax.swing.JTextField" name="Pos1">
+    </Component>
+    <Component class="javax.swing.JTextField" name="Pos2">
+    </Component>
+    <Component class="javax.swing.JTextField" name="Pos3">
+    </Component>
+    <Component class="javax.swing.JTextField" name="Pos4">
+    </Component>
+    <Component class="javax.swing.JTextField" name="Pos5">
+    </Component>
+    <Component class="javax.swing.JTextField" name="Pos6">
+    </Component>
+    <Component class="javax.swing.JTextField" name="Pos7">
+    </Component>
+    <Component class="javax.swing.JTextField" name="Pos8">
+    </Component>
+    <Component class="javax.swing.JTextField" name="Pos9">
+    </Component>
+    <Component class="javax.swing.JTextField" name="Pos10">
+    </Component>
+    <Component class="javax.swing.JTextField" name="Pos11">
+    </Component>
+    <Component class="javax.swing.JTextField" name="Pos12">
+    </Component>
+    <Component class="javax.swing.JTextField" name="Pos13">
+    </Component>
+    <Component class="javax.swing.JTextField" name="Pos14">
+    </Component>
+    <Component class="javax.swing.JTextField" name="Pos15">
+    </Component>
+    <Component class="javax.swing.JTextField" name="Pos16">
+    </Component>
+    <Component class="javax.swing.JTextField" name="Pos17">
+    </Component>
+    <Component class="javax.swing.JTextField" name="Pos18">
+    </Component>
+    <Component class="javax.swing.JTextField" name="Pos19">
+    </Component>
+    <Component class="javax.swing.JTextField" name="Pos20">
+    </Component>
+    <Component class="javax.swing.JTextField" name="Pos21">
+    </Component>
+    <Component class="javax.swing.JTextField" name="Pos22">
+    </Component>
+    <Component class="javax.swing.JTextField" name="Pos23">
+    </Component>
+    <Component class="javax.swing.JTextField" name="Pos24">
+    </Component>
+    <Component class="javax.swing.JTextField" name="Pos25">
+    </Component>
+    <Component class="javax.swing.JTextField" name="Pos26">
+    </Component>
+    <Component class="javax.swing.JTextField" name="Pos27">
+    </Component>
+    <Component class="javax.swing.JTextField" name="Pos28">
+    </Component>
+    <Component class="javax.swing.JTextField" name="Pos29">
+    </Component>
+    <Component class="javax.swing.JTextField" name="Pos30">
+    </Component>
+    <Component class="javax.swing.JTextField" name="Pos31">
+    </Component>
+    <Component class="javax.swing.JTextField" name="Pos32">
+    </Component>
+    <Component class="javax.swing.JTextField" name="Pos33">
+    </Component>
+    <Component class="javax.swing.JTextField" name="Pos34">
+    </Component>
+    <Component class="javax.swing.JTextField" name="Pos35">
+    </Component>
+    <Component class="javax.swing.JTextField" name="Pos36">
+    </Component>
+    <Component class="javax.swing.JTextField" name="Pos37">
+    </Component>
+    <Component class="javax.swing.JTextField" name="Pos38">
+    </Component>
+    <Component class="javax.swing.JTextField" name="Pos39">
+    </Component>
+    <Component class="javax.swing.JTextField" name="Pos40">
+    </Component>
+    <Component class="javax.swing.JTextField" name="Pos41">
+    </Component>
+    <Component class="javax.swing.JTextField" name="Pos42">
+    </Component>
+    <Component class="javax.swing.JTextField" name="Pos43">
+    </Component>
+    <Component class="javax.swing.JTextField" name="Pos44">
+    </Component>
+    <Component class="javax.swing.JTextField" name="Pos45">
+    </Component>
+    <Component class="javax.swing.JTextField" name="Pos46">
+    </Component>
+    <Component class="javax.swing.JTextField" name="Pos47">
+    </Component>
+    <Component class="javax.swing.JTextField" name="Pos48">
+    </Component>
+    <Component class="javax.swing.JTextField" name="Pos49">
+    </Component>
+    <Component class="javax.swing.JTextField" name="Pos50">
+    </Component>
+    <Component class="javax.swing.JTextField" name="Pos51">
+    </Component>
+    <Component class="javax.swing.JTextField" name="Pos52">
+    </Component>
+    <Component class="javax.swing.JTextField" name="Pos53">
+    </Component>
+    <Component class="javax.swing.JTextField" name="Pos54">
+    </Component>
+    <Component class="javax.swing.JTextField" name="Pos55">
+    </Component>
+    <Component class="javax.swing.JTextField" name="Pos56">
+    </Component>
+    <Component class="javax.swing.JTextField" name="Pos57">
+    </Component>
+    <Component class="javax.swing.JTextField" name="Pos58">
+    </Component>
+    <Component class="javax.swing.JTextField" name="Pos59">
+    </Component>
+    <Component class="javax.swing.JTextField" name="Pos60">
+    </Component>
+    <Component class="javax.swing.JTextField" name="Pos61">
+    </Component>
+    <Component class="javax.swing.JTextField" name="Pos62">
+    </Component>
+    <Component class="javax.swing.JTextField" name="Pos63">
+    </Component>
+    <Component class="javax.swing.JTextField" name="Pos64">
+    </Component>
+    <Component class="javax.swing.JTextField" name="Pos65">
+    </Component>
+    <Component class="javax.swing.JTextField" name="Pos66">
+    </Component>
+    <Component class="javax.swing.JTextField" name="Pos67">
+    </Component>
+    <Component class="javax.swing.JTextField" name="Pos68">
+    </Component>
+    <Component class="javax.swing.JTextField" name="Pos69">
+    </Component>
+    <Component class="javax.swing.JTextField" name="Pos70">
+    </Component>
+    <Component class="javax.swing.JTextField" name="Pos71">
+    </Component>
+    <Component class="javax.swing.JTextField" name="Pos72">
+    </Component>
+    <Component class="javax.swing.JTextField" name="Pos73">
+    </Component>
+    <Component class="javax.swing.JTextField" name="Pos74">
+    </Component>
+    <Component class="javax.swing.JTextField" name="Pos75">
+    </Component>
+    <Component class="javax.swing.JTextField" name="Pos76">
+    </Component>
+    <Component class="javax.swing.JTextField" name="Pos77">
+    </Component>
+    <Component class="javax.swing.JTextField" name="Pos78">
+    </Component>
+    <Component class="javax.swing.JTextField" name="Pos79">
+    </Component>
+    <Component class="javax.swing.JTextField" name="Pos80">
+    </Component>
+    <Component class="javax.swing.JTextField" name="Pos81">
+    </Component>
+    <Component class="javax.swing.JButton" name="BotonComp">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="COMPROBAR"/>
+      </Properties>
+    </Component>
+  </SubComponents>
+</Form>

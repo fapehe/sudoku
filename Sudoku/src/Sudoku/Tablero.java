@@ -17,6 +17,7 @@ public class Tablero extends javax.swing.JFrame {
      */
     public Tablero() {
         initComponents();
+        this.limpiarTableroGrafico();
     }
 
     /**
@@ -430,6 +431,7 @@ public class Tablero extends javax.swing.JFrame {
         java.awt.EventQueue.invokeLater(new Runnable() {
             public void run() {
                 new Tablero().setVisible(true);
+              
             }
         });
     }
@@ -518,4 +520,16 @@ public class Tablero extends javax.swing.JFrame {
     private javax.swing.JTextField Pos81;
     private javax.swing.JTextField Pos9;
     // End of variables declaration//GEN-END:variables
+
+    void limpiarTableroGrafico(){
+        
+        Pos2.setText("6");
+        Pos4.setText("8");
+        Pos7.setText("2");
+        Pos8.setText("1");
+        Pos14.setText("3");
+        Pos15.setText("4");
+        Pos17.setText("8");
+    }
+    
 }
